@@ -63,7 +63,7 @@ You should treat agent input and memory as untrusted data.
 ## Learn More
 
 Full walkthrough available at:  
-[https://mamtaupadhyay.com/2025/07/llm-build-simple-agent/](https://mamtaupadhyay.com/2025/07/llm-build-simple-agent/)
+[https://mamtaupadhyay.com/2025/07/09/llm-build-building-your-first-ai-agent/)
 
 ## License
 
